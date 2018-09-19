@@ -27,7 +27,8 @@ Main maximum d’un joueur: 6 cartes. Rien n’empêche de jouer, donner ou vend
 
 L'argent qui est dans le compte en suisse est placé dans l'enveloppe.
 En gros le nom de la famille est écrit sur l'enveloppe, en en petit le prénom. 
-Prévoir de la place pour les prénoms: A cahque assassinat le prénom est rayé et remplacé par le nouveau prénom du membre de la famille qui prend sa place
+
+Prévoir de la place pour les prénoms: A chaque assassinat le prénom est rayé et remplacé par un nouveau prénom (celui du membre de la famille qui prend sa place).
 
 ## Tour de jeu
 
@@ -40,10 +41,11 @@ S'il reste des postes a pourvoir le president les nomme.
 ### 2- Le président retire l’aide internationale (8 billets)
 
 - Le président propose son budget
-- Vote du budget
-- En cas de refus du budget : le président peut garder les sous, ou demander au ministre de l’Intérieur de forcer le budget (placement des pions Police dans la Chambre des députés). Dans les deux cas cela vaut pour une excuse et la banque est fermee jusqu'a la phase 6. Si le budget n'est pas force le president garge le pactole.
 
-### 3-  Choix des localisations
+### 3- Vote du budget
+- En cas de refus du budget : le président peut conserver le pactole, ou demander au ministre de l’Intérieur de forcer le budget (placement des pions Police dans la Chambre des députés). Dans les deux cas cela vaut pour une excuse et la banque est fermee jusqu'a la phase 6. .
+
+### 4- Choix des localisations
 
 Les localisations ont changé:
 
@@ -54,21 +56,23 @@ Les localisations ont changé:
 - **Garconniere** : Permet de magouiller avec la creme du pays: pioche deux cartes polique en choisit une et defausse l'autre. Donner 1MP au president s'il s'y trouve aussi 
 
 
-### 4- Phase de terreur
+### 5- Phase de terreur
 
 Déclaration des attaques : tentatives d’assassinat, vols...etc.
 
-### 5- Révélation des localisations
+### 6- Révélation des localisations
 - Si des assassinats ont réussi => résolution des assassinats.
 - Exécution des actions relatives aux localisations
 - Vérif. des statuts de la Banque (ouverte / fermée / en sécurité) 
 et des éventuelles Excuses (motifs d’insurrection).
 
-### 6- coup d'etat
+### 7- coup d'etat
 
 Voir plus bas.
 
-### 7- reouveture de la banque apres un coup d'etat si elle etait fermee
+### 8- reouveture de la banque 
+
+Uniquement apres un coup d'etat
 
 
  
@@ -93,7 +97,7 @@ Les cartes suffrages sont defaussées à la fin du tour ou elles sont utilisées
 
 ## Coup d'état 
 
-- L'initiateur prend la carte du leader révolutionnaire
+- L'initiateur prend la carte du leader révolutionnaire (y compris si elle est deja en possession d'une autre joueur)
 - Chacun annonce son soutien:  au president ou aux insurgés, on tourne a partir du leaderrévolutionnaire
 - Premiere salve: Le leader révolutionnaire puis le président lancent leurs dés
 - un dé pour chaque troupe sous controle direct: succes si inférieur ou egal a la force de l'unité (voir les unités)
@@ -111,6 +115,7 @@ Il n'est pas possible de rester neutre - par défaut les troupes sont loyalistes
 - Les insurgés forment une junte
 - Les possessions des "traitres" (comprendre les loyalistes) sont confisquées et partagées dans la junte par le leader revolutionnaire   
 - Une nouvelle élection a lieu, seule la Junte a le droit de voter
+- La carte du leader révolutionnaire est conservee
 
 
 
