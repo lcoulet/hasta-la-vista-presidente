@@ -87,7 +87,7 @@
 - **Mise sous quarantaine**: nécessite l'influence médicale. Le lieu ciblé est mis sous quarantaine. Il n'est pas possible d'y faire d'action ce tour, et les attaques y sont sans effet. 
 - **Absence injustifiée**: protège contre les effets d'un autre événement sur un joueur. Ne fonctionne pas contre les attaques de la phase de terreur.
 - **Fake news**: l'événement ciblé n'a jamais eu lieu. La carte est tout de même défaussée.
-- **Débat a l’assemblée**: Chaque joueur fait un beau discours d'une minute. Tous les joueurs votent ensuite pour le plus discours le plus éloquent. Le vainqueur prends la carte "Grand orateur" et la force "Faction du parti"
+- **Débat a l’assemblée**: Chaque joueur fait un beau discours d'une minute. Tous les joueurs votent ensuite pour le plus discours le plus éloquent. Le vainqueur prends la carte "Grand orateur" et la force "Milices du parti"
 - **Agitateur populaire**: Peut initier un coup d’état depuis n'importe quelle localisation.
 - **Guerre civile**: Et non... Le coup d’état n'est pas terminé, recommencer la phase de combat du coup d'état.
 
@@ -161,6 +161,6 @@ Forces récupérées avec une carte événement:
 - **Étudiants**: 2.  Nécessite l'influence universitaire. La défausser lorsque l'influence est perdue.
 - **Escouades des cartels**:  3 Nécessite l'influence des cartels. La défausser lorsque l'influence des cartels est perdue. 
 - **Troupes de l'ONU**: 3. Seulement utilisables par un joueur en exil. La défausser lorsque le joueur n'est plus exilé.
-- **Factions du parti**: 3. Seulement utilisables par un joueur en exil. La défausser lorsque le joueur n'est plus exilé.
+- **Milices du parti**: 2. 
 
 
