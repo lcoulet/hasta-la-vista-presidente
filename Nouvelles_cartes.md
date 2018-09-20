@@ -149,9 +149,9 @@ Forces liées a un poste:
 - **Parachutistes**: 2
 - **Canonnière**: 2
 - **Marines**: 3
-- **Police**: 4
+- **Police**: 3
 - **Brigade d’armée**: 4
-- **Gardes du palais**: 3
+- **Gardes du palais**: 2
 
 
 Forces récupérées avec une carte événement:
