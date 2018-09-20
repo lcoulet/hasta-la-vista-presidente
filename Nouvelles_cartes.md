@@ -158,9 +158,9 @@ Forces récupérées avec une carte événement:
 
 - **Émeutiers**: 2. 
 - **Grévistes**: 2.
-- **Étudiants**: 2.  Nécessite l'influence universitaire. La défausser lorsque l'influence est perdue.
-- **Escouades des cartels**:  3 Nécessite l'influence des cartels. La défausser lorsque l'influence des cartels est perdue. 
-- **Troupes de l'ONU**: 3. Seulement utilisables par un joueur en exil. La défausser lorsque le joueur n'est plus exilé.
+- **Étudiants**: 2.  La défausser lorsque l'influence universitaire est perdue.
+- **Escouades des cartels**:  3. La défausser lorsque l'influence des cartels est perdue. 
+- **Troupes de l'ONU**: 3. La défausser lorsque le joueur n'est plus exilé.
 - **Milices du parti**: 2. 
 
 
