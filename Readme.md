@@ -6,6 +6,7 @@ Cette variante est plus courte et plus dynamique (favorise les retournements de 
 - les coups d'état sont résolus rapidement
 - Les cartes votes ne servant qu'une fois elles ont une plus grosse valeur de voix que le jeu original.
 - les localisations sont valorisées
+- L'exil devient une vraie possibilité de jeu 
 
 
 # Matériel
@@ -23,7 +24,7 @@ Les cartes originales suivantes sont retirées du jeu:
 
 # Règles
 
-Main maximum d’un joueur: 6 cartes. Rien n’empêche de jouer, donner ou vendre des cartes, mais le joueur qui a plus de 6 cartes en main doit immédiatement se débarasser des cartes surnuméraires.
+Main maximum d’un joueur: 6 cartes. Rien n’empêche de jouer, donner ou vendre des cartes, mais le joueur qui a plus de 6 cartes en main doit immédiatement se débarrasser des cartes surnuméraires.
 
 L'argent qui est dans le compte en suisse est placé dans l'enveloppe.
 En gros le nom de la famille est écrit sur l'enveloppe, en en petit le prénom. 
@@ -32,11 +33,18 @@ Prévoir de la place pour les prénoms: A chaque assassinat le prénom est rayé
 
 ## Tour de jeu
 
-### 1- Chaque joueur pioche 2 cartes et fait en sorte de ne pas en avoir plus de 6
+### 1- Activités politiques 
+
+Chaque joueur pioche 2 cartes et fait en sorte de ne pas en avoir plus de 6
 
 ### 2- Ajustement du gouvernement
 
-S'il reste des postes a pourvoir le president les nomme. 
+S'il reste des postes a pourvoir le président les nomme. 
+S'il y a des familles sans postes, le président doit redistribuer les postes.
+
+- Chaque famille doit avoir au moins un poste
+- Aucune famille ne peut avoir plus de deux postes
+- Le président ne peut pas se nommer à un autre poste
 
 ### 2- Le président retire l’aide internationale (8 billets)
 
@@ -49,79 +57,112 @@ S'il reste des postes a pourvoir le president les nomme.
 
 Les localisations ont changé:
 
-- **Quartier General** : Peut initier un coup d'etat ou recolter des fonds pour le parti (prendre 1 billet).
-- **Banque** : Depot / retrait compte en suisse
+- **Quartier Général** : Peut initier un coup d’état.
+- **Banque** : Dépôt sur le compte compte en suisse (ou retrait) 
 - **Bureau** : Faire campagne. Pioche 1 carte politique 
-- **Residence** : Recevoir des visites "amicales". Pioche 1 billet. 
-- **Garconniere** : Permet de magouiller avec la creme du pays: pioche deux cartes polique en choisit une et defausse l'autre. Donner 1MP au president s'il s'y trouve aussi 
+- **Résidence** : Recevoir des visites "amicales". Pioche 1 billet. 
+- **Garçonnière** : Permet de magouiller avec la crème du pays: pioche deux cartes politiques en choisit une et défausse l'autre. Donner 1MP au président s'il s'y trouve également. 
+- **Exil** : Le joueur s'exile  dans une nation étrangère et ne peut plus participer au gouvernement. Les postes occupés par le joueur sont immédiatement abandonnés. Voir chapitre sur l'exil.
 
 
 ### 5- Phase de terreur
 
 Déclaration des attaques : tentatives d’assassinat, vols...etc.
 
-### 6- Révélation des localisations
-- Si des assassinats ont réussi => résolution des assassinats.
-- Exécution des actions relatives aux localisations
-- Vérif. des statuts de la Banque (ouverte / fermée / en sécurité) 
-et des éventuelles Excuses (motifs d’insurrection).
+### 6- Révélation et effet des localisations
 
-### 7- coup d'etat
+- Si des assassinats ont réussi => résolution des assassinats dans l'ordre de leur annonce.
+- Exécution des actions relatives aux localisations
+
+
+Vérification des statuts de la Banque (ouverte / fermée / en sécurité) et des éventuelles Excuses (motifs d’insurrection).
+
+
+### 7- Coup d’état
 
 Voir plus bas.
 
-### 8- reouveture de la banque 
+### 8- réouverture de la banque 
 
-Uniquement apres un coup d'etat
+Uniquement après un coup d’état et si la banque était fermée en phase 7.
 
 
  
 ## Scrutins 
 
 Chaque tour permet de sortir de nouvelles cartes suffrages ou influence pour changer le cours du vote. 
-Les cartes suffrages sont defaussées à la fin du tour ou elles sont utilisées.
+Les cartes suffrages sont défaussées à la fin du tour ou elles sont utilisées.
 
-**Les élections présidentielles et scrutins speciaux**: A la majorite absolue (sauf mention contraire des scrutiens speciaux). Il est procédé à un nouveau tour de scrutin jusqu'a obtention de la majorite absolue.
+**Les élections présidentielles et scrutins spéciaux**: A la majorité absolue (sauf mention contraire des scrutins spéciaux). Il est procédé à un nouveau tour de scrutin jusqu’à obtention de la majorité absolue.
 
-**Le vote du budget**: Au scrutin majoritaire à deux tours obligatoires, sauf si unanimité au 1er vote. Le second tour permet de jouer les cartes suffrages.
- 
+**Le vote du budget**: Au scrutin majoritaire à deux tours obligatoires, sauf si unanimité au 1er tour. Le second tour permet de jouer des cartes suffrages ou influence supplémentaires.
 
-## Emplacements:
 
-- **Quartier General** : Peut initier un coup d'etat ou recolter des fonds pour le parti (prendre 1 billet).
-- **Banque** : Depot / retrait compte en suisse
-- **Bureau** : Faire campagne. Pioche 1 carte politique 
-- **Residence** : Recevoir des visites "amicales". Pioche 1 billet. 
-- **Garconniere** : Permet de magouiller avec la creme du pays: pioche deux cartes polique en choisit une et defausse l'autre. Donner 1MP au president s'il s'y trouve aussi 
 
+## Exil
+
+Un joueur exilé:
+
+- quitte immédiatement son ou ses postes (qui sont redistribués normalement, un exil du président implique une réélection)
+- ne peut pas être assassiné
+- ne pioche pas de carte 
+- ne peut recevoir aucun budget
+- ne peut pas engager d'assassin
+- doit choisir une localisation (et peut revenir à ce moment)
+- ne peut normalement ni participer a aucun vote ni aux coups d'états
+
+
+Pour revenir d'exil, le joueur doit verser 1MP de sa poche ou de son compte en suisse. S'il ne les a pas son retour est gratuit.
+
+Lors d'un retour d'exil le premier ministre peut s'il le souhaite faire assassiner le joueur gratuitement, l'assassinat réussit automatiquement.
+
+
+## Mort 
+
+Lorsqu'un personnage décède dans un malheureux "accident" ou bien au peloton d'exécution. 
+
+- Toutes ses influences sont perdues
+- Sa famille récupère un poste au gouvernement dans la prochaine phase 2 
 
 ## Coup d'état 
 
-- L'initiateur prend la carte du leader révolutionnaire (y compris si elle est deja en possession d'une autre joueur)
-- Chacun annonce son soutien:  au president ou aux insurgés, on tourne a partir du leaderrévolutionnaire
-- Premiere salve: Le leader révolutionnaire puis le président lancent leurs dés
-- un dé pour chaque troupe sous controle direct: succes si inférieur ou egal a la force de l'unité (voir les unités)
-- Annonce finale des soutiens (dernier moment pour retourner sa veste, le préseident et leader révolutionnaire ne peuvent pas changer).  
-- Lancement des dés pour les autres troupes
-- La faction gagnante est celle qui a le plus de succès
+Pour initier un coup d’état il faut avoir une excuse et se trouver dans le quartier général.
+Il n'est pas possible de rester neutre lors d'un coup d'état - à défaut de positionnement clair, les joueurs et leurs troupes sont loyalistes.
 
-Il n'est pas possible de prendre le controle d'une unité après les jets de dés.
-Il n'est pas possible de rester neutre - par défaut les troupes sont loyalistes.
+
+**Phase d'insurrection:**
+
+- L'initiateur annonce une insurrection
+- L'initiateur prend la carte du "leader révolutionnaire" (y compris si elle est déjà en possession d'une autre joueur)
+- Chacun a partir de lui annonce son soutien:  au président ou aux insurgés, on tourne a partir du leader révolutionnaire
+- Seuls les supporters de l'insurrection dans cette phase pourront participer a la junte si le coup réussit
+
+**Phase de combats:**
+
+- Première salve: Le leader révolutionnaire puis le président lancent leurs dés
+- Annonce finale des soutiens (dernier moment pour retourner sa veste, le président et leader révolutionnaire ne peuvent pas changer).  
+- Seconde salve: Lancement des dés pour les autres troupes
+- La faction gagnante est celle qui a le plus de succès. En cas d'égalité on peut encore retourner sa veste et on rejoue la seconde salve.
+
+Le lancement des dés suit les règles suivantes: chaque joueur lance un dé pour chaque troupe sous contrôle direct: c'est un succès si inférieur ou égal a la force de l'unité (voir les unités).
+
+Il n'est pas possible de prendre le contrôle d'une unité (par exemple corruption) après les jets de dés, mais c'est possible entre les deux salves.
+
 
 
 ### La faction révolutionnaire gagne
 
-- Le président est exécuté, ses biens (billets) confisqués pour la cause (au leader revolutionnaire)
-- Les insurgés forment une junte
-- Les possessions des "traitres" (comprendre les loyalistes) sont confisquées et partagées dans la junte par le leader revolutionnaire   
-- Une nouvelle élection a lieu, seule la Junte a le droit de voter
-- La carte du leader révolutionnaire est conservee
+- Le président est mené au peloton d'exécution, ses biens (billets) confisqués pour la cause (au leader révolutionnaire)
+- Les premiers insurgés qui n'ont pas changé de camp forment une junte
+- Les possessions des "traîtres" (comprendre ceux qui ont fini dans le camp des loyalistes) sont confisquées et partagées dans la junte par le leader révolutionnaire   
+- Une nouvelle élection de président a lieu, normalement, seule la Junte a le droit de voter
+- La carte d'influence "leader révolutionnaire" est conservée et compte dans cette élection et toutes les suivantes. 
 
 
 
 ### La faction loyaliste gagne
 
-- Le leader révolutionnaire est exécuté, ou bien exilé(a la décision du président), ses biens confisqués, la carte leader révolutionnaire lui est retirée  
-- Les possessions des traitres (insurgés) sont confisquées et partagées par le président avec les loyalistes
-- Le président prend la carte Dirigeant musclé  
+- Le leader révolutionnaire est mené au peloton d'exécution, ou bien exilé(a la décision du président), ses biens confisqués, la carte leader révolutionnaire lui est retirée 
+- Les possessions des traîtres (insurgés) sont confisquées et partagées par le président avec les loyalistes
+- Le président prend la carte d'influence **Présidence autoritaire** et la conserve. Dès qu'il n'est plus président elle est remise de coté.
 
