@@ -33,25 +33,31 @@ Prévoir de la place pour les prénoms: A chaque assassinat le prénom est rayé
 
 ## Tour de jeu
 
+Le président a la charge d'animer et enchaîner entre les différentes phases du jeu. 
+
 ### 1- Activités politiques 
 
-Chaque joueur pioche 2 cartes et fait en sorte de ne pas en avoir plus de 6
+Le président distribue 2 cartes à tous les joueur (les joueurs font ce qu'il faut pour ne pas en avoir plus de 6)
 
 ### 2- Ajustement du gouvernement
 
 S'il reste des postes a pourvoir le président les nomme. 
-S'il y a des familles sans postes, le président doit redistribuer les postes.
+S'il y a des familles sans postes, le président doit redistribuer les postes (il peut alors changer tout le gouvernement).
+Sinon le gouvernement reste le même
 
-- Chaque famille doit avoir au moins un poste
-- Aucune famille ne peut avoir plus de deux postes
-- Le président ne peut pas se nommer à un autre poste
+- Chaque famille doit avoir au moins un poste au gouvernement
+- Aucune famille ne peut avoir plus de deux postes au gouvernement
+- Le président ne peut pas se nommer à un poste du gouvernement
 
 ### 2- Le président retire l’aide internationale (8 billets)
 
 - Le président propose son budget
 
 ### 3- Vote du budget
-- En cas de refus du budget : le président peut conserver le pactole, ou demander au ministre de l’Intérieur de forcer le budget (placement des pions Police dans la Chambre des députés). Dans les deux cas cela vaut pour une excuse et la banque est fermee jusqu'a la phase 6. .
+
+Le vote se fait en tournant a partir du président.
+
+- En cas de refus du budget : le président peut conserver le pactole, ou demander au ministre de l’Intérieur de forcer le budget (placement des pions Police dans la Chambre des députés). Dans les deux cas cela vaut pour une excuse et la banque est fermée jusqu’à la phase 8.
 
 ### 4- Choix des localisations
 
@@ -67,18 +73,17 @@ Les localisations ont changé:
 
 ### 5- Phase de terreur
 
-Déclaration des attaques : tentatives d’assassinat, vols...etc.
+Déclaration des attaques, en tournant a partir du 1er ministre : tentatives d’assassinat, vols...etc.
 
 ### 6- Révélation et effet des localisations
 
 - Si des assassinats ont réussi => résolution des assassinats dans l'ordre de leur annonce.
-- Exécution des actions relatives aux localisations
-
-
-Vérification des statuts de la Banque (ouverte / fermée / en sécurité) et des éventuelles Excuses (motifs d’insurrection).
+- Exécution des actions relatives aux localisations en tournant à partir du président
 
 
 ### 7- Coup d’état
+
+Vérification des statuts de la Banque (ouverte / fermée / en sécurité) et des éventuelles Excuses (motifs d’insurrection).
 
 Voir plus bas.
 
@@ -122,7 +127,12 @@ Lors d'un retour d'exil le premier ministre peut s'il le souhaite faire assassin
 Lorsqu'un personnage décède dans un malheureux "accident" ou bien au peloton d'exécution. 
 
 - Toutes ses influences sont perdues
-- Sa famille récupère un poste au gouvernement dans la prochaine phase 2 
+- Les biens sont perdus (le plus souvent récupérés par le joueur ayant envoyé l'assassin)
+- Le poste est occupé en intérim par le beau-frère du président, c'est a dire le président (qui ne peut occuper qu'un seul poste ainsi, il peut choisir lequel) 
+- Le compte en suisse reste intact dans la famille
+- Le prénom du mort et rayé de l'enveloppe et le joueur doit en inscrire un autre 
+- Sa famille récupère un poste au gouvernement dans la prochaine phase 2
+
 
 ## Coup d'état 
 

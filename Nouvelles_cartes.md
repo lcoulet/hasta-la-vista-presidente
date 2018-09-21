@@ -81,6 +81,7 @@
 - **Testament**: Permet de conserver 2 billets dans la famille en cas de décès (sauf peloton d'exécution) 
 - **Grèves des cheminots**: nécessite l'influence des prolétaires.prendre le contrôle de la force des grévistes
 - **Guerre des cartels**: nécessite l'influence des cartels. prendre le contrôle de la force des escouades des cartels.
+- **Fondation d'une milice civile de défence**: prendre le contrôle de la force de la milice civile.
 - **Émeutes dans les ghettos**: prendre le contrôle de la force des émeutiers
 - **Révoltes étudiantes**: nécessite l'influence des universités. Prendre le contrôle de la force des étudiants
 - **Intervention de l'ONU**: nécessite de se trouver en exil. Prendre le contrôle de la force des troupes de l'ONU.
@@ -128,6 +129,7 @@ De couleur différente, elles ne peuvent être jouées que par ou envers un joue
 - **Réduction de l'aide internationale** : Le gouvernement aura moitié moins de billets pour son budget
 - **Crise diplomatique majeure**: les joueurs ne piochent pas de cartes ce tour. 
 - **Embargo commercial**: Le président ne récolte pas d'aide internationale ce tour. Excuse
+- **Embargo sur l'armement**: Toutes les troupes liées à des postes (brigades d'armée, police, marines, canonnière, forces aériennes et parachutistes) ont une force réduite de 1 point jusqu'à la fin du tour.
 - **Activités d'import/export**: un exilé peut piocher deux billets
 - **Tour operator**: un exilé peut piocher un billet s'il a l'influence Tourisme.
 - **Relais d'influence**: un exilé peut participer aux votes ce tour ci
@@ -161,6 +163,7 @@ Forces récupérées avec une carte événement:
 - **Étudiants**: 2.  La défausser lorsque l'influence universitaire est perdue.
 - **Escouades des cartels**:  3. La défausser lorsque l'influence des cartels est perdue. 
 - **Troupes de l'ONU**: 3. La défausser lorsque le joueur n'est plus exilé.
-- **Milices du parti**: 2. 
+- **Milices du parti**: 2.
+- **Milices civiles**: 1 
 
 
