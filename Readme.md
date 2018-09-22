@@ -117,6 +117,9 @@ Pour revenir d'exil, le joueur doit verser 1MP de sa poche ou de son compte en s
 Lors d'un retour d'exil le premier ministre peut s'il le souhaite faire assassiner le joueur gratuitement, l'assassinat réussit automatiquement.
 
 
+Les cartes "en exil" sont optionnelles (selon si on veut jouer avec un exil actif ou non). De couleur différente, elles ne peuvent être jouées que par ou envers un joueur exilé
+
+
 ## Mort 
 
 Lorsqu'un personnage décède dans un malheureux "accident" ou bien au peloton d'exécution. 
