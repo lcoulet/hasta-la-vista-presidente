@@ -66,6 +66,7 @@ Suffrage,Liesse populaire car l’équipe nationale de football a gagné le cham
 Événement,Congés maladie,Événement,normal,,,,Déjoue une tentative d'assassinat.,
 Événement,Sosie naturel,Événement,normal,,,,L'assassin s'est trompé de cible. Déjoue une tentative d'assassinat.  ,
 Événement,Testament,Événement,normal,,,, Permet de conserver 2 billets dans la famille en cas de décès (sauf peloton d'exécution) ,
+Événement,Fondation d'une milice civile de défence,Événement,normal,,,,Prenez la force de milice civile,
 Événement,Envoi d'hélicoptère,Événement,normal,2,,,Prenez la force hélicoptère.,
 Événement,Grèves des cheminots,Événement,normal,,,,prendre le contrôle de la force des grévistes, influence des prolétaires.
 Événement,Guerre des cartels,Événement,normal,,,,prendre le contrôle de la force des escouades des cartels., influence des cartels
@@ -76,6 +77,7 @@ Suffrage,Liesse populaire car l’équipe nationale de football a gagné le cham
 Événement,Absence injustifiée,Événement,normal,,,, protège contre les effets d'un autre événement sur un joueur. Ne fonctionne pas contre les attaques de la phase de terreur.,
 Événement,Fake news,Événement,normal,,,, l'événement ciblé n'a jamais eu lieu. La carte est tout de même défaussée.,
 Événement,Débat a l’assemblée,Événement,normal,,,," Chaque joueur fait un beau discours d'une minute. Tous les joueurs votent ensuite pour le plus discours le plus éloquent. Le vainqueur prends la carte ""Grand orateur"" et la force ""Milices du parti""",
+Événement,Embargo sur l'armement,Événement,normal,,,,"Toutes les troupes liées à des postes (brigades d'armée, police, marines, canonnière, forces aériennes et parachutistes) ont une force réduite de 1 point jusqu'à la fin du tour.",
 Événement,Agitateur populaire,Événement,normal,1,,, Peut initier un coup d’état depuis n'importe quelle localisation.,
 Événement,Guerre civile,Événement,normal,,,," Et non... Le coup d’état n'est pas terminé, recommencer la phase de combat du coup d'état.",
 Événement,Corruption de l’armée - 1ere brigade,recrutement,normal,3,,,Prenez le contrôle de la brigade jusqu’à la fin du tour,
@@ -127,3 +129,4 @@ Force,Troupes de l'ONU,Force,Force,,,3,,
 Force,Milices du parti,Force,Force,,,2,,
 Force,Mercenaires,Force,Force,,,3,,
 Force,Hélicoptère,Force,Force,,,3,,
+Force,Milices civiles,Force,Force,,,1,,
