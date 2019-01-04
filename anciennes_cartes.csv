@@ -1,46 +1,50 @@
-Type,Nom,Couleur,Verso,Cout,Voix,Force,Effets,Conditions
-Événement,Panne d'électricité,Événement,normal,,,,Le vote en cours est terminé après le 1er tour.,
-Événement,Demande de réforme,Événement,normal,,,,Vous contrôlez toutes les influences de 5 ou moins de tous les autres joueurs jusqu'à la fin du tour,Influence des chrétiens démocrates
-Corruption,Corruption d'un tueur,Corruption,normal,2,,,L'assassin vous laisse la vie sauve,
-Événement,Financement politique secret,Financement,normal,,,,Prenez un billet de la pile,
-Influence,Paysans,Influence,normal,,3,,,
-Suffrage,Réfugiés politiques,Suffrage,normal,,2,,,
-Événement,Mise en question des compétences du président,Événement,normal,,,,"Pendant la phase de formation du gouvernement vous pouvez proposer une motion dans le but de démettre le président de ses fonctions pour incompétence, La motion passera aux 2/3 des voix.",
-Suffrage,trafiquants du marché noir,Suffrage,normal,,3,,,
-Suffrage,Anarcho-syndicalistes,Suffrage,normal,,2,,,
-Suffrage,Paysans,Suffrage,normal,,2,,,
-Corruption,Extra pour le tueur de la police secrète,Corruption,normal,,2,,Le ministre de l'intérieur peut faire une tentative d'assassinat supplémentaire,
-Événement,Espion en suisse,Événement,normal,,,,Vous pouvez regarder secrètement combien l'un de vos adversaires a d'argent sur son compte en suisse,influence universitaires
-Influence,Syndicats,Influence,normal,,5,,,
-Influence,Banquiers,Influence,normal,,7,,Permet de disposer d'1MP par tour pour financer un assassinat ou des pots de vins,
-Influence,étudiants,Influence,normal,,3,,,
-Influence,Radicaux,Influence,normal,,3,,,
-Influence,Milieux universitaires,Influence,normal,,3,,Vaut 6 voix si on possède aussi l'influence des étudiants,
-Terreur,Tueur amateur,Attaque,normal,1,,,Tirez un dé. L'assassinat est raté si le résultat est 3 ou moins.,
-Événement,Mise à sac d'une église,Événement,normal,,5,,Vous bénéficiez de voix supplémentaires jusqu'à la fin du tour,influence de l'église
-Terreur,Tueur étranger,Attaque,normal,1,,,,"Ne peut pas être jouée par le président ni le premier ministre,"
-Influence,Conservateurs,Influence,normal,,8,,,
-Suffrage,électeurs fantômes,Suffrage,normal,,3,,,
-Événement,Vérification,Événement,normal,,,,La motion n'a pas été enregistrée correctement. Tous les suffrages sont défaussés et on possède à un nouveau tour de scrutin.,
-Excuse,Condamnation de l'ONU concernant la torture des prisonniers politiques,Excuse,normal,,,,,
-Terreur,Tueur professionnel,Attaque,normal,2,,,,
-Événement,Budget de rechange,Événement,normal,,,,"Lorsque le budget est rejeté, vous récupérez toutes les cartes du président sauf une, Vous proposez un nouveau budget qui est voté. S'il passe vous devez le distribuer, sinon le ministre peut le forcer ou vous gardez les billets.",
-Influence,Socialistes,Influence,normal,,5,,Vaut 10 voix si vous avez l'influence des syndicats,
-Financement,Financement politique secret,Financement,normal,,,,Piochez un billet de la pile,
-Terreur,Cambrioleurs,Attaque,normal,,,,Vous tentez de cambrioler la résidence d'un joueur. Si celui-ci n'est pas dans sa résidence il doit vous verser 2MP,
-Terreur,Tueur psychotique,Attaque,,,,,"Lacez un dé : 1 à 3 fait sa tentative d'assassinat, 4 et 5 aucun effet, 6 : relancez un dé, si vous faites 4 ou plus ce tueur se retourne contre vous et VOUS abat",
-Suffrage,Classes moyennes,Suffrage,normal,,3,,,
-Excuse,"Carnaval annuel, beaucoup d'animation dans les rues",Excuse,normal,,,,,
-Événement,Vacances d'été,Événement,normal,,,,"Le vote en cours s'arrête au premier tour,  cette carte doit être jouée avant que le second tour ne commence",
-Financement,Financement politique secret,Financement,normal,,,,Piochez un billet de la pile,
-Influence,Chrétiens démocrates,Influence,normal,,5,,Vaut 10 voix si vous avez l'influence de l'église,
-Influence,église,Influence,normal,,10,,,
-Financement,Financement politique secret,Financement,normal,,,,Piochez un billet de la pile,
-Suffrage,Marxistes Léninistes,Suffrage,normal,,2,,,
-Suffrage,Fraudeurs,Suffrage,normal,,2,,,
-Suffrage,Généraux en retraite,Suffrage,normal,,3,,,
-Terreur,Tueur monarchiste,Attaque,normal,,,,"Peut soit faire une tentative d'assassinat, ou bien vous pouvez jouer cette carte pour vous protéger d'une tentative d'assassinat dirigée contre vous",influence des monarchistes
-Événement,Pétition estudiantine contre la répression,Événement,normal,,,,Sans effet,
-Événement,rupture de coalition,Événement,normal,,,,Obligez un joueur a de défausser de l'une de ses influences (il choisira laquelle),
-Influence,monarchistes,Influence,normal,,3,,Permet de disposer d'1MP par tour pour financer un assassinat ou des pots de vins,
-Événement,Jour férié,Événement,normal,,,,La banque est fermée ce tour,influence des banquiers
+Type,Nom,Couleur,Verso,Cout,Voix,Force,Effets,Conditions,Image
+Événement,Panne d'électricité,Événement,normal,,,,Le vote en cours est terminé après le 1er tour.,,default.svg
+Événement,Demande de réforme,Événement,normal,,,,Vous contrôlez toutes les influences de 5 ou moins de tous les autres joueurs jusqu'à la fin du tour,Influence des chrétiens démocrates,default.svg
+Corruption,Corruption d'un tueur,Corruption,normal,2,,,L'assassin vous laisse la vie sauve,,bribe.svg
+Événement,Financement politique secret,Financement,normal,,,,Prenez un billet de la pile,,money.svg
+Événement,Financement politique secret,Financement,normal,,,,Prenez un billet de la pile,,money.svg
+Événement,Financement politique secret,Financement,normal,,,,Prenez un billet de la pile,,money.svg
+Événement,Financement politique secret,Financement,normal,,,,Prenez un billet de la pile,,money.svg
+Événement,Financement politique secret,Financement,normal,,,,Prenez un billet de la pile,,money.svg
+Influence,Paysans,Influence,normal,,3,,Vous pouvez conserver cette carte pour plusieurs votes,,farmers.svg
+Suffrage,Réfugiés politiques,Suffrage,normal,,2,,Défaussez cette carte après son utilisation dans un vote,,political_refugees.svg
+Événement,Mise en question des compétences du président,Événement,normal,,,,"Pendant la phase de formation du gouvernement vous pouvez proposer une motion dans le but de démettre le président de ses fonctions pour incompétence, La motion passera aux 2/3 des voix.",,president.svg
+Suffrage,trafiquants du marché noir,Suffrage,normal,,3,,Défaussez cette carte après son utilisation dans un vote,,black_market.svg
+Suffrage,Anarcho-syndicalistes,Suffrage,normal,,2,,Défaussez cette carte après son utilisation dans un vote,,anarchists.svg
+Suffrage,Paysans,Suffrage,normal,,2,,Défaussez cette carte après son utilisation dans un vote,,farmers_2.svg
+Corruption,Extra pour le tueur de la police secrète,Corruption,normal,2,,,Le ministre de l'intérieur peut faire une tentative d'assassinat supplémentaire,,minister.svg
+Événement,Espion en suisse,Événement,normal,,,,Vous pouvez regarder secrètement combien l'un de vos adversaires a d'argent sur son compte en suisse,influence universitaires,spy_switzerland.svg
+Influence,Syndicats,Influence,normal,,5,,Vous pouvez conserver cette carte pour plusieurs votes,,anarchists.svg
+Influence,Banquiers,Influence,normal,,7,,Permet de disposer d'1MP par tour pour financer un assassinat ou des pots de vins.,,bankers.svg
+Influence,étudiants,Influence,normal,,3,,Vous pouvez conserver cette carte pour plusieurs votes,,students.svg
+Influence,Radicaux,Influence,normal,,3,,Vous pouvez conserver cette carte pour plusieurs votes,,radicals.svg
+Influence,Milieux universitaires,Influence,normal,,3,,Vaut 6 voix si on possède aussi l'influence des étudiants,,academia.svg
+Terreur,Tueur amateur,Attaque,normal,1,,,Tirez un dé. L'assassinat est raté si le résultat est 3 ou moins.,,assassin_amateur.svg
+Événement,Mise à sac d'une église,Événement,normal,,5,,Vous bénéficiez de voix supplémentaires jusqu'à la fin du tour,influence de l'église,chuch_vandalism.svg
+Terreur,Tueur étranger,Attaque,normal,1,,,Peut tenter un assassinat,"Ne peut pas être jouée par le président ni le premier ministre,",ninja.svg
+Influence,Conservateurs,Influence,normal,,8,,Vous pouvez conserver cette carte pour plusieurs votes,,conservatives.svg
+Suffrage,électeurs fantômes,Suffrage,normal,,3,,Défaussez cette carte après son utilisation dans un vote,,graveyard_votes.svg
+Événement,Vérification,Événement,normal,,,,La motion n'a pas été enregistrée correctement. Tous les suffrages sont défaussés et on possède à un nouveau tour de scrutin.,,multiple_votes.svg
+Excuse,Condamnation de l'ONU concernant la torture des prisonniers politiques,Excuse,normal,,,,,,un_comdemn.svg
+Terreur,Tueur professionnel,Attaque,normal,2,,,Peut tenter un assassinat,,assassin_professional.svg
+Événement,Budget de rechange,Événement,normal,,,,"Lorsque le budget est rejeté, vous récupérez toutes les cartes du président sauf une, Vous proposez un nouveau budget qui est voté. S'il passe vous devez le distribuer, sinon le ministre peut le forcer ou vous gardez les billets.",,money.svg
+Influence,Socialistes,Influence,normal,,5,,Vaut 10 voix si vous avez l'influence des syndicats,,socialists.svg
+Financement,Financement politique secret,Financement,normal,,,,Piochez un billet de la pile,,money.svg
+Terreur,Cambrioleurs,Attaque,normal,,,,Vous tentez de cambrioler la résidence d'un joueur. Si celui-ci n'est pas dans sa résidence il doit vous verser 2MP,,roberer.svg
+Terreur,Tueur psychotique,Attaque,normal,,,,"Lacez un dé : 1 à 3 fait sa tentative d'assassinat, 4 et 5 aucun effet, 6 : relancez un dé, si vous faites 4 ou plus ce tueur se retourne contre vous et VOUS abat",,assassin.svg
+Suffrage,Classes moyennes,Suffrage,normal,,3,,Défaussez cette carte après son utilisation dans un vote,,bourgeoisie.svg
+Excuse,"Carnaval annuel, beaucoup d'animation dans les rues",Excuse,normal,,,,,,festival.svg
+Événement,Vacances d'été,Événement,normal,,,,"Le vote en cours s'arrête au premier tour,  cette carte doit être jouée avant que le second tour ne commence",,default.svg
+Financement,Financement politique secret,Financement,normal,,,,Piochez un billet de la pile,,money.svg
+Influence,Chrétiens démocrates,Influence,normal,,5,,Vaut 10 voix si vous avez l'influence de l'église,,christian_democrats.svg
+Influence,église,Influence,normal,,10,,Vous pouvez conserver cette carte pour plusieurs votes,,chuch.svg
+Financement,Financement politique secret,Financement,normal,,,,Piochez un billet de la pile,,money.svg
+Suffrage,Marxistes Léninistes,Suffrage,normal,,2,,Défaussez cette carte après son utilisation dans un vote,,communists.svg
+Suffrage,Fraudeurs,Suffrage,normal,,2,,Défaussez cette carte après son utilisation dans un vote,,multiple_votes.svg
+Suffrage,Généraux en retraite,Suffrage,normal,,3,,Défaussez cette carte après son utilisation dans un vote,,retired_generals.svg
+Terreur,Tueur monarchiste,Attaque,normal,,,,"Peut soit faire une tentative d'assassinat, ou bien vous pouvez jouer cette carte pour vous protéger d'une tentative d'assassinat dirigée contre vous",influence des monarchistes,assassin_royal.svg
+Événement,Pétition estudiantine contre la répression,Événement,normal,,,,Sans effet,,student_petition.svg
+Événement,rupture de coalition,Événement,normal,,,,Obligez un joueur a de défausser de l'une de ses influences (il choisira laquelle),,coalition_break.svg
+Influence,monarchistes,Influence,normal,,3,,Permet de disposer d'1MP par tour pour financer un assassinat ou des pots de vins,,monarchists.svg
+Événement,Jour férié,Événement,normal,,,,La banque est fermée ce tour,influence des banquiers,bank_holiday.svg
