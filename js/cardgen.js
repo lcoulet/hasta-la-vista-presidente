@@ -36,10 +36,10 @@ var scope = {
           cardTextHtml = textToHtml(element.Effets);
         }
         if (element.Conditions !== undefined && element.Conditions !== '') {
-          cardTextHtml = cardTextHtml + "<br /><br /><b>Conditions requises:</b>" + textToHtml(element.Conditions);
+          cardTextHtml = cardTextHtml + "<br /><br /><b>Conditions : </b>" + textToHtml(element.Conditions);
         }
         if (element.Cout !== undefined && element.Cout !== '') {
-          cardTextHtml = cardTextHtml + "<br /><br /><b>Coût: </b>" + textToHtml(element.Cout) + " M&#8369;";
+          cardTextHtml = cardTextHtml + "<br /><br /><b>Payez : </b>" + textToHtml(element.Cout) + " M&#8369;";
         }
 
         $('#cards').append(
