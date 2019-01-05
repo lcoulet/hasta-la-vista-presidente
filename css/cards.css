@@ -1,5 +1,10 @@
 body {
-    background-color: white   
+    background-color: white  ;
+}
+
+.cardsfront{
+    margin-right: auto; 
+    margin-left: auto;
 }
 
 h1{
@@ -137,10 +142,10 @@ ul li{
 }
 
 .vote{
-    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='30px' width='30px'> <circle cx='15' cy='15' r='15' stroke='black' stroke-width='0' fill='greenyellow' /><text x='6' y='26' fill='black' font-size='7'>VOIX</text></svg>");
+    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='30px' width='30px'> <circle cx='15' cy='15' r='15' stroke='black' stroke-width='0' fill='greenyellow' /><text font-family='Helvetica,Arial' x='8' y='26' fill='black' font-size='7'>VOIX</text></svg>");
     border: 1px solid darkgreen;
     font-family: sans-serif;
-    font-style: bold;
+    font-weight: bold;
     font-size: 10px;
     top: 10px;
     left: 10px;    
@@ -148,11 +153,22 @@ ul li{
 }
 
 
+.forceValue{
+    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='30px' width='30px'> <circle cx='15' cy='15' r='15' stroke='black' stroke-width='0' fill='lightcoral' /><text font-family='Helvetica,Arial' x='7' y='26' fill='black' font-size='7'>Force</text></svg>");
+    border: 1px solid black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    top: 10px;
+    left: 10px;    
+    position: absolute;
+}
+
 .cost{
-    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='30px' width='30px'> <circle cx='15' cy='15' r='15' stroke='black' stroke-width='0' fill='yellow' /><text x='10' y='28' fill='black' font-size='8'>M₱</text></svg>");
+    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='30px' width='30px'> <circle cx='15' cy='15' r='15' stroke='black' stroke-width='0' fill='yellow' /><text font-family='Helvetica,Arial' x='10' y='28' fill='black' font-size='8'>M₱</text></svg>");
     border: 1px solid darkgreen;
     font-family: sans-serif;
-    font-style: bold;
+    font-weight: bold;
     font-size: 10px;
     bottom: 10px;
     right: 10px;    
@@ -190,22 +206,30 @@ ul li{
     background-image: url("old_map.png");
 }
 
+.cardTexts{
+    display: inline-block;
+}
+
 .cardText{
     background-color: antiquewhite; 
+    display:block;
     font-family: sans-serif;
-    font-size: 12px;
-    display: block;
-    text-align: justify;
-    text-anchor: end;
+    font-size: 12px;    
+    text-align: justify;    
     margin: 5px;
     padding: 5px;
     border-radius:5px; 
-    bottom: 20px;
-    width: 198px;
-    position: absolute;
+    width: 198px;    
     border: 1px solid #000;
-
 }
+
+.cardBottomContainer{
+    display: inline-flex;
+    align-items: flex-end;
+    bottom: 20px;
+    position: absolute;
+}
+
 
 .cardImage {
     display: block;
