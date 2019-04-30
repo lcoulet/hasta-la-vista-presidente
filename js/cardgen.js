@@ -21,9 +21,14 @@ function textToHtml(text) {
 var scope = {
   currentCardId: 0,
   cards: [],
+  bills: [],
   addCards: function (moreCards) {
     this.cards.concat(moreCards);
     this.renderCards(moreCards);
+  },
+  addBills: function (moreBills) {
+    this.bills.concat(moreBills);
+    this.renderBills(moreBills);
   },
   renderCards: function (cards) {
     cards
@@ -58,20 +63,38 @@ var scope = {
           $('#card' + cardId).append($('<div>').text(element.Cout).addClass("circle").addClass("cost"));
         }
 
-      })
+      });
+  },
+  renderBills: function (bills) {
+    bills
+      .filter(element => element.Quantite !== undefined && element.Quantite > 0)
+      .forEach(element => {
+        for (i = 0; i < element.Quantite; i++) {
+          $('#bills').append(
+            $('<li id="bill' + element.Nom + i + '">')
+              .html('<div class="bill"><img src="svg/' + element.Image + '" class="billImage"></div>')
+              .addClass("bill"));            
+        } 
+      });
   }
 };
 
-var processCSV = function (csvContents) {
+var processCSVCards = function (csvContents) {
   var csvData = Papa.parse(csvContents, { header: true });
   scope.addCards(csvData.data);
 }
+
+var processCSVBills = function (csvContents) {
+  var csvData = Papa.parse(csvContents, { header: true });
+  scope.addBills(csvData.data);
+}
+
 
 $.ajax({
   type: "GET",
   url: "anciennes_cartes.csv",
   dataType: "text",
-  success: processCSV
+  success: processCSVCards
 })
 
 
@@ -79,6 +102,13 @@ $.ajax({
   type: "GET",
   url: "nouvelles_cartes.csv",
   dataType: "text",
-  success: processCSV
+  success: processCSVCards
 })
 
+
+$.ajax({
+  type: "GET",
+  url: "bills.csv",
+  dataType: "text",
+  success: processCSVBills
+})
