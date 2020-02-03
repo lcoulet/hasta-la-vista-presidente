@@ -29,7 +29,9 @@ En revanche lorsque dans un petit arrangement vous vous engagez à fournir une c
 - Une élection présidentielle est immédiatement organisée
 
 ## Règles de base
+### But du jeu
 
+Mettre plus d'argent sur son compte en suisse que ses adversaires.
 
 ### Cartes
 
@@ -61,6 +63,10 @@ Il se compose de 7 postes:
 - Amiral: prend les cartes canonnière et marines
 - Commandant des forces aériennes: prend les cartes parachutistes et forces aériennes
 
+### Fin du jeu
+
+Le jeu se termine lorsqu'il n'y a plus de billets dans la pioche, le tour est terminé.
+Le joueur ayant le plus d'argent sur son compte en suisse gagne, an cas d'égalité les influences permettent de départager. 
 
 
 ## Tour de jeu
@@ -171,7 +177,7 @@ Lorsqu'un personnage décède dans un malheureux "accident" ou bien au peloton d
 - Toutes ses influences sont perdues
 - Toutes les cartes politiques sont défaussées
 - Son argent est confisqué (le plus souvent récupérés par le joueur ayant envoyé l'assassin, à défaut par le premier ministre)
-- - Le poste est occupé en intérim par le beau-frère du président, c'est a dire le président (qui ne peut occuper qu'un seul poste ainsi, il peut choisir lequel) 
+- Le poste est occupé en intérim par le beau-frère du président, c'est a dire le président (qui ne peut occuper qu'un seul poste ainsi, il peut choisir lequel) 
 - Le compte en suisse reste intact dans la famille
 - Le prénom du mort et rayé de l'enveloppe et le joueur doit en inscrire un autre 
 - Sa famille récupère un poste au gouvernement dans la prochaine phase 2
