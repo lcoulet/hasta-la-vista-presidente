@@ -105,10 +105,3 @@ $.ajax({
   success: processCSVCards
 })
 
-
-$.ajax({
-  type: "GET",
-  url: "bills.csv",
-  dataType: "text",
-  success: processCSVBills
-})

@@ -10,39 +10,58 @@ Cette variante est plus courte et plus dynamique (favorise les retournements de 
 
 # Matériel
 
-- Vous avez besoin du jeu Junta original
+- Vous avez besoin du jeu Junta original: les billets, dés et cartes personnages seront utilisés
 - Le plateau de jeu n'est pas utilisé
 - Une enveloppe est fournie a chaque joueur, elle représente le compte en suisse
 - De nouvelles cartes sont fournies
 
-# Rappel important
+
+# Règles
+## Rappel important
 
 A Junta vous devez mettre de cote vos scrupules et votre amour propre. 
 Toutes les trahisons sont permises, il est inutile de chercher à se venger, au contraire le pardon sera bien plus efficace (entre deux trahisons).
 En revanche lorsque dans un petit arrangement vous vous engagez à fournir une contrepartie, vous devrez tenir votre parole.
-
-# Règles
-
-Main maximum d’un joueur: 6 cartes. 
-Rien n’empêche de jouer, donner ou vendre des cartes, mais le joueur qui a plus de 6 cartes en main doit immédiatement se débarrasser des cartes surnuméraires.
-
-L'argent qui est dans le compte en suisse sera placé dans l'enveloppe.
-En gros le nom de la famille est écrit sur l'enveloppe, en en petit le prénom. 
-  
-Prévoir de la place pour les prénoms: A chaque assassinat le prénom est rayé et remplacé par un nouveau prénom (celui du membre de la famille qui prend sa place).
 
 ## Mise en place
 
 - Chaque joueur pioche 4 cartes politiques et 1 billet
 - Une élection présidentielle est immédiatement organisée
 
-## Élection présidentielle
+## Règles de base
+
+
+### Cartes
+
+Main maximum d’un joueur: 6 cartes. 
+Rien n’empêche de jouer, donner ou vendre des cartes, mais le joueur qui a plus de 6 cartes en main doit immédiatement se débarrasser des cartes surnuméraires.
+
+### Compte en suisse 
+
+L'argent qui est dans le compte en suisse sera placé dans l'enveloppe.
+En gros le nom de la famille est écrit sur l'enveloppe, en en petit le prénom.  
+Prévoir de la place pour les prénoms: A chaque assassinat le prénom est rayé et remplacé par un nouveau prénom (celui du membre de la famille qui prend sa place).
+
+
+### Élection présidentielle
 
 - Tout le monde peut candidater
 - Les candidats présentent un programme en quelques mots (20 à 30 secondes par candidat) 
 - Il est toutefois possible d'élire quelqu'un qui ne s'est pas déclaré candidat
 
 Voir les règles pour les **scrutins**.
+
+### Gouvernement
+
+Il se compose de 7 postes:
+
+- Président: el presidente, prend la carte des gardes du palais
+- Ministre de l'intérieur, prend la carte de la police
+- Général (il y en a trois: 1ere, 2eme et 3eme brigade), prend la carte brigade d'armée correspondante
+- Amiral: prend les cartes canonnière et marines
+- Commandant des forces aériennes: prend les cartes parachutistes et forces aériennes
+
+
 
 ## Tour de jeu
 
@@ -54,12 +73,13 @@ Le président distribue 2 cartes à tous les joueur (les joueurs font ce qu'il f
 
 ### 2- Ajustement du gouvernement
 
-- Tous les postes sont utilisés 
+- Tous les postes doivent être utilisés 
 - Le président peut choisir de conserver le gouvernement actuel ou le recomposer selon son choix
 - S'il reste des postes a pourvoir le président les nomme
 - S'il y a des familles sans postes, le président doit redistribuer les postes (il peut alors changer tout le gouvernement)
 - Chaque famille doit avoir au moins un poste au gouvernement, mais jamais plus de deux postes. Une famille ne peut pas occuper deux postes de général.
 - Le président ne peut pas se nommer à un poste du gouvernement
+- Chaque membre prend la ou les carte(s) des forces armées correspondantes 
 
 ### 2- Le président retire l’aide internationale 
 
