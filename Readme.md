@@ -8,28 +8,41 @@ Cette variante est plus courte et plus dynamique (favorise les retournements de 
 - les localisations sont valorisées
 - L'exil devient une vraie possibilité de jeu 
 
-
 # Matériel
 
+- Vous avez besoin du jeu Junta original
 - Le plateau de jeu n'est pas utilisé
 - Une enveloppe est fournie a chaque joueur, elle représente le compte en suisse
 - De nouvelles cartes sont fournies
-- une nouvelle roue de localisation
 
-Les cartes originales suivantes sont retirées du jeu:
--  7 cartes événement qui prévoient l’introduction d’unités sur la carte de la ville de Los Bananas
-- les 5 cartes événement suivantes : Grève des paysans, formation de milices chrétiennes, hélicoptère, prétendant de province, soulèvement paysan, la carte influence « fraude électorale » 
-- les 5 cartes corruption suivantes : police, 1ère brigade,2ème brigade, 3ème brigade et agitateurs.
+# Rappel important
 
+A Junta vous devez mettre de cote vos scrupules et votre amour propre. 
+Toutes les trahisons sont permises, il est inutile de chercher à se venger, au contraire le pardon sera bien plus efficace (entre deux trahisons).
+En revanche lorsque dans un petit arrangement vous vous engagez à fournir une contrepartie, vous devrez tenir votre parole.
 
 # Règles
 
-Main maximum d’un joueur: 6 cartes. Rien n’empêche de jouer, donner ou vendre des cartes, mais le joueur qui a plus de 6 cartes en main doit immédiatement se débarrasser des cartes surnuméraires.
+Main maximum d’un joueur: 6 cartes. 
+Rien n’empêche de jouer, donner ou vendre des cartes, mais le joueur qui a plus de 6 cartes en main doit immédiatement se débarrasser des cartes surnuméraires.
 
-L'argent qui est dans le compte en suisse est placé dans l'enveloppe.
+L'argent qui est dans le compte en suisse sera placé dans l'enveloppe.
 En gros le nom de la famille est écrit sur l'enveloppe, en en petit le prénom. 
-
+  
 Prévoir de la place pour les prénoms: A chaque assassinat le prénom est rayé et remplacé par un nouveau prénom (celui du membre de la famille qui prend sa place).
+
+## Mise en place
+
+- Chaque joueur pioche 4 cartes politiques et 1 billet
+- Une élection présidentielle est immédiatement organisée
+
+## Élection présidentielle
+
+- Tout le monde peut candidater
+- Les candidats présentent un programme en quelques mots (20 à 30 secondes par candidat) 
+- Il est toutefois possible d'élire quelqu'un qui ne s'est pas déclaré candidat
+
+Voir les règles pour les **scrutins**.
 
 ## Tour de jeu
 
@@ -41,23 +54,26 @@ Le président distribue 2 cartes à tous les joueur (les joueurs font ce qu'il f
 
 ### 2- Ajustement du gouvernement
 
-S'il reste des postes a pourvoir le président les nomme. 
-S'il y a des familles sans postes, le président doit redistribuer les postes (il peut alors changer tout le gouvernement).
-Sinon le gouvernement reste le même
-
-- Chaque famille doit avoir au moins un poste au gouvernement
-- Aucune famille ne peut avoir plus de deux postes au gouvernement
+- Tous les postes sont utilisés 
+- Le président peut choisir de conserver le gouvernement actuel ou le recomposer selon son choix
+- S'il reste des postes a pourvoir le président les nomme
+- S'il y a des familles sans postes, le président doit redistribuer les postes (il peut alors changer tout le gouvernement)
+- Chaque famille doit avoir au moins un poste au gouvernement, mais jamais plus de deux postes. Une famille ne peut pas occuper deux postes de général.
 - Le président ne peut pas se nommer à un poste du gouvernement
 
-### 2- Le président retire l’aide internationale (8 billets)
+### 2- Le président retire l’aide internationale 
 
+- Lancer deux dés qui donneront le nombre de billets du tour - tous les joueurs connaissent le nombre de billets
+- Le président et le ministre de l'intérieur récupèrent l'aide internationale ensemble - ils sont seuls a connaître le montant exact 
 - Le président propose son budget
 
 ### 3- Vote du budget
 
-Le vote se fait en tournant a partir du président.
+Le vote se fait en tournant a partir du président. Voir les règles pour les **scrutins**.
 
-- En cas de refus du budget : le président peut conserver le pactole, ou demander au ministre de l’Intérieur de forcer le budget (placement des pions Police dans la Chambre des députés). Dans les deux cas cela vaut pour une excuse et la banque est fermée jusqu’à la phase 8.
+- En cas de refus du budget : le président peut conserver le pactole, ou demander au ministre de l’Intérieur de forcer le budget (placement des pions Police dans la Chambre des députés). 
+
+Dans les deux cas cela vaut pour une excuse et la banque est fermée jusqu’à la phase 8.
 
 ### 4- Choix des localisations
 
@@ -80,7 +96,6 @@ Déclaration des attaques, en tournant a partir du 1er ministre : tentatives d�
 - Si des assassinats ont réussi => résolution des assassinats dans l'ordre de leur annonce.
 - Exécution des actions relatives aux localisations en tournant à partir du président
 
-
 ### 7- Coup d’état
 
 Vérification des statuts de la Banque (ouverte / fermée / en sécurité) et des éventuelles Excuses (motifs d’insurrection).
@@ -91,38 +106,42 @@ Voir plus bas.
 
 Uniquement après un coup d’état et si la banque était fermée en phase 7.
 
-
  
 ## Scrutins 
 
 Chaque tour permet de sortir de nouvelles cartes suffrages ou influence pour changer le cours du vote. 
-Les cartes suffrages sont défaussées à la fin du tour ou elles sont utilisées.
+Les cartes suffrages sont défaussées à la fin du tour de vote ou elles sont utilisées.
 
 **Les élections présidentielles et scrutins spéciaux**: A la majorité absolue (sauf mention contraire des scrutins spéciaux). Il est procédé à un nouveau tour de scrutin jusqu’à obtention de la majorité absolue.
 
-**Le vote du budget**: Au scrutin majoritaire à deux tours obligatoires, sauf si unanimité au 1er tour. Le second tour permet de jouer des cartes suffrages ou influence supplémentaires.
-
-
+**Les autres votes**: Au scrutin à deux tours obligatoires (sauf si unanimité au 1er tour). Le second tour permet de jouer des cartes suffrages ou influence supplémentaires. La sommes des votes des deux tours est utilisée.
 
 ## Exil
 
-Un joueur exilé:
+Un joueur exilé ne peut pas (sauf mention contraire):
 
-- quitte immédiatement son ou ses postes (qui sont redistribués normalement, un exil du président implique une réélection)
-- ne peut pas être assassiné
-- ne pioche pas de carte 
-- ne peut recevoir aucun budget
-- ne peut pas engager d'assassin
-- doit choisir une localisation (et peut revenir à ce moment)
-- ne peut normalement ni participer a aucun vote ni aux coups d'états
-
-
-Pour revenir d'exil, le joueur doit verser 1MP de sa poche ou de son compte en suisse. S'il ne les a pas son retour est gratuit.
-
-Lors d'un retour d'exil le premier ministre peut s'il le souhaite faire assassiner le joueur gratuitement, l'assassinat réussit automatiquement.
+- exercer son ou ses postes (qui sont toujours occupés par lui, un exil du président implique une réélection)
+- être assassiné
+- recevoir un budget
+- engager d'assassin 
+- participer à aucun vote ni aux coups d'états 
+- piocher de carte politique
 
 
-Les cartes "en exil" sont optionnelles (selon si on veut jouer avec un exil actif ou non). De couleur différente, elles ne peuvent être jouées que par ou envers un joueur exilé
+Il peut: 
+- échanger (donner et/ou recevoir) des cartes et des billets avec autres joueurs
+- joueur certaines cartes marquée "En exil"
+
+Il doit : 
+- toujours choisir une localisation (et peut revenir à ce moment)
+- Auquel cas pour rester en exil, le joueur doit verser **1MP de sa poche ou de son compte en suisse**. S'il ne le peut pas il doit rentrer au pays.
+- Pour revenir d'exil, le joueur doit aussi verser **1MP de sa poche ou de son compte en suisse**. S'il ne le peut pas son retour est gratuit.
+
+Lors d'un retour d'exil le premier ministre peut -s'il le souhaite- faire assassiner le joueur gratuitement, l'assassinat réussit automatiquement.
+
+Les cartes "en exil" sont optionnelles (selon si on veut jouer avec un exil actif ou non). De couleur différente, elles ne peuvent être jouées que par ou envers un joueur exilé.
+
+Un joueur en exil peut rentrer au pays gratuitement et immédiatement lors d'un coup d'état réussi.  
 
 
 ## Mort 
@@ -130,12 +149,14 @@ Les cartes "en exil" sont optionnelles (selon si on veut jouer avec un exil acti
 Lorsqu'un personnage décède dans un malheureux "accident" ou bien au peloton d'exécution. 
 
 - Toutes ses influences sont perdues
-- Les biens sont perdus (le plus souvent récupérés par le joueur ayant envoyé l'assassin)
-- Le poste est occupé en intérim par le beau-frère du président, c'est a dire le président (qui ne peut occuper qu'un seul poste ainsi, il peut choisir lequel) 
+- Toutes les cartes politiques sont défaussées
+- Son argent est confisqué (le plus souvent récupérés par le joueur ayant envoyé l'assassin, à défaut par le premier ministre)
+- - Le poste est occupé en intérim par le beau-frère du président, c'est a dire le président (qui ne peut occuper qu'un seul poste ainsi, il peut choisir lequel) 
 - Le compte en suisse reste intact dans la famille
 - Le prénom du mort et rayé de l'enveloppe et le joueur doit en inscrire un autre 
 - Sa famille récupère un poste au gouvernement dans la prochaine phase 2
-
+- Si le président est mort, une nouvelle élection a lieu immédiatement, suivi du nommage du cabinet, auquel cas tous les joueurs peuvent revenir en jeu, puis le tour de jeu continue normalement.
+- le joueur pioche 4 nouvelles cartes politiques 
 
 ## Coup d'état 
 
@@ -155,11 +176,12 @@ Il n'est pas possible de rester neutre lors d'un coup d'état - à défaut de po
 - Première salve: Le leader révolutionnaire puis le président lancent leurs dés
 - Annonce finale des soutiens (dernier moment pour retourner sa veste, le président et leader révolutionnaire ne peuvent pas changer).  
 - Seconde salve: Lancement des dés pour les autres troupes
-- La faction gagnante est celle qui a le plus de succès. En cas d'égalité on peut encore retourner sa veste et on rejoue la seconde salve.
+- On additionne les succès
+- La faction gagnante est celle qui a le plus de succès. En cas d'égalité on peut encore retourner sa veste et on joue une "seconde salve" supplémentaire.
 
 Le lancement des dés suit les règles suivantes: chaque joueur lance un dé pour chaque troupe sous contrôle direct: c'est un succès si inférieur ou égal a la force de l'unité (voir les unités).
 
-Il n'est pas possible de prendre le contrôle d'une unité (par exemple corruption) après les jets de dés, mais c'est possible entre les deux salves.
+Il n'est pas possible de prendre le contrôle d'une unité (par exemple corruption) après les jets de dés correspondants, mais c'est possible entre les deux salves.
 
 
 

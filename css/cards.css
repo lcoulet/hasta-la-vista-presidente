@@ -132,8 +132,8 @@ ul li{
 }
 
 .circle {
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
     justify-content: center;
     align-items: center;
     border-radius: 100%;    
@@ -142,36 +142,36 @@ ul li{
 }
 
 .vote{
-    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='30px' width='30px'> <circle cx='15' cy='15' r='15' stroke='black' stroke-width='0' fill='greenyellow' /><text font-family='Helvetica,Arial' x='8' y='26' fill='black' font-size='7'>VOIX</text></svg>");
+    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='40px' width='40px'> <circle cx='20' cy='20' r='20' stroke='black' stroke-width='0' fill='greenyellow' /><text font-family='Helvetica,Arial' x='10' y='36' fill='black' font-size='9'>VOIX</text></svg>");
     border: 1px solid darkgreen;
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 10px;
-    top: 10px;
-    left: 10px;    
+    font-size: 15px;
+    top: 0px;
+    left: 0px;    
     position: absolute;
 }
 
 
 .forceValue{
-    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='30px' width='30px'> <circle cx='15' cy='15' r='15' stroke='black' stroke-width='0' fill='lightcoral' /><text font-family='Helvetica,Arial' x='7' y='26' fill='black' font-size='7'>Force</text></svg>");
+    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='40px' width='40px'> <circle cx='20' cy='20' r='20' stroke='black' stroke-width='0' fill='lightcoral' /><text font-family='Helvetica,Arial' x='10' y='36' fill='black' font-size='9'>Force</text></svg>");
     border: 1px solid black;
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 10px;
-    top: 10px;
-    left: 10px;    
+    font-size: 15px;
+    top: 0px;
+    left: 0px;    
     position: absolute;
 }
 
 .cost{
-    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='30px' width='30px'> <circle cx='15' cy='15' r='15' stroke='black' stroke-width='0' fill='yellow' /><text font-family='Helvetica,Arial' x='10' y='28' fill='black' font-size='8'>M₱</text></svg>");
+    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='40px' width='40px'> <circle cx='20' cy='20' r='20' stroke='black' stroke-width='0' fill='yellow' /><text font-family='Helvetica,Arial' x='14' y='36' fill='black' font-size='9'>M₱</text></svg>");
     border: 1px solid darkgreen;
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 10px;
-    bottom: 10px;
-    right: 10px;    
+    font-size: 15px;
+    bottom: 0px;
+    right: 0px;    
     position: absolute;
 }
 
@@ -182,7 +182,7 @@ ul li{
     text-anchor: start;
     min-height: 50px;
     max-height: 80px;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 .striped{    
