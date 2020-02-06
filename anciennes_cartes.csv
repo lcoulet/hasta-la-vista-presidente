@@ -1,7 +1,7 @@
-Type,Nom,Couleur,Verso,Cout,Voix,Force,Effets,Conditions,Image
+Événement,Nom,Couleur,Verso,Cout,Voix,Force,Effets,Conditions,Image
 Événement,Panne d'électricité,Événement,normal,,,,Le vote en cours est terminé après le 1er tour.,,junta.svg
 Événement,Demande de réforme,Événement,normal,,,,Vous contrôlez toutes les influences de 5 ou moins de tous les autres joueurs jusqu'à la fin du tour,Influence des chrétiens démocrates,junta.svg
-Corruption,Corruption d'un tueur,Corruption,normal,2,,,L'assassin vous laisse la vie sauve,,junta.svg
+Événement,Corruption d'un tueur,Événement,normal,2,,,L'assassin vous laisse la vie sauve,,junta.svg
 Événement,Financement politique secret,Financement,normal,,,,Prenez un billet de la pile,,junta.svg
 Événement,Financement politique secret,Financement,normal,,,,Prenez un billet de la pile,,junta.svg
 Événement,Financement politique secret,Financement,normal,,,,Prenez un billet de la pile,,junta.svg
@@ -13,7 +13,7 @@ Suffrage,Réfugiés politiques,Suffrage,normal,,2,,Défaussez cette carte après
 Suffrage,trafiquants du marché noir,Suffrage,normal,,3,,Défaussez cette carte après son utilisation dans un vote,,junta.svg
 Suffrage,Anarcho-syndicalistes,Suffrage,normal,,2,,Défaussez cette carte après son utilisation dans un vote,,junta.svg
 Suffrage,Paysans,Suffrage,normal,,2,,Défaussez cette carte après son utilisation dans un vote,,junta.svg
-Corruption,Extra pour le tueur de la police secrète,Corruption,normal,2,,,Le ministre de l'intérieur peut faire une tentative d'assassinat supplémentaire,,junta.svg
+Événement,Extra pour le tueur de la police secrète,Événement,normal,2,,,Le ministre de l'intérieur peut faire une tentative d'assassinat supplémentaire,,junta.svg
 Événement,Espion en suisse,Événement,normal,,,,Vous pouvez regarder secrètement combien l'un de vos adversaires a d'argent sur son compte en suisse,influence universitaires,junta.svg
 Influence,Syndicats,Influence,normal,,5,,Vous pouvez conserver cette carte pour plusieurs votes,,junta.svg
 Influence,Banquiers,Influence,normal,,7,,Permet de disposer d'1MP par tour pour financer un assassinat ou des pots de vins.,,junta.svg

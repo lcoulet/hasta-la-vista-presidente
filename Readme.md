@@ -25,7 +25,7 @@ En revanche lorsque dans un petit arrangement vous vous engagez à fournir une c
 
 ## Mise en place
 
-- Chaque joueur pioche 4 cartes politiques et 1 billet
+- Chaque joueur pioche 6 cartes politiques et 1 billet
 - Une élection présidentielle est immédiatement organisée
 
 ## Règles de base
@@ -97,7 +97,7 @@ Le président distribue 2 cartes à tous les joueur (les joueurs font ce qu'il f
 
 Le vote se fait en tournant a partir du président. Voir les règles pour les **scrutins**.
 
-- En cas de refus du budget : le président peut conserver le pactole, ou demander au ministre de l’Intérieur de forcer le budget (placement des pions Police dans la Chambre des députés). 
+- En cas de refus du budget : le président peut conserver le pactole, ou demander au ministre de l’intérieur de forcer le budget (placement des pions Police dans la Chambre des députés). 
 
 Dans les deux cas cela vaut pour une excuse et la banque est fermée jusqu’à la phase 8.
 
@@ -105,17 +105,19 @@ Dans les deux cas cela vaut pour une excuse et la banque est fermée jusqu’à 
 
 Les localisations ont changé:
 
-- **Quartier Général** : Peut initier un coup d’état.
+- **Quartier Général** : Peut initier un coup d’état s'il y a une excuse.
 - **Banque** : Dépôt sur le compte compte en suisse (ou retrait) 
 - **Bureau** : Faire campagne. Pioche 1 carte politique 
 - **Résidence** : Recevoir des visites "amicales". Pioche 1 billet. 
 - **Garçonnière** : Permet de magouiller avec la crème du pays: pioche deux cartes politiques en choisit une et défausse l'autre. Donner 1MP au président s'il s'y trouve également. 
-- **Exil** : Le joueur s'exile  dans une nation étrangère et ne peut plus participer au gouvernement. Les postes occupés par le joueur sont immédiatement abandonnés. Voir chapitre sur l'exil.
+- **Exil** : Le joueur s'exile  dans une nation étrangère et ne peut plus participer au gouvernement. Voir chapitre sur l'exil.
 
 
 ### 5- Phase de terreur
 
-Déclaration des attaques, en tournant a partir du 1er ministre : tentatives d’assassinat, vols...etc.
+Déclaration des attaques, en tournant a partir du ministre de l’intérieur : tentatives d’assassinat, vols...etc.
+
+Le ministre de l’intérieur bénéficie d'une tentative gratuite d'assassinat.
 
 ### 6- Révélation et effet des localisations
 
@@ -135,24 +137,26 @@ Uniquement après un coup d’état et si la banque était fermée en phase 7.
  
 ## Scrutins 
 
-Chaque tour permet de sortir de nouvelles cartes suffrages ou influence pour changer le cours du vote. 
-Les cartes suffrages sont défaussées à la fin du tour de vote ou elles sont utilisées.
 
-**Les élections présidentielles et scrutins spéciaux**: A la majorité absolue (sauf mention contraire des scrutins spéciaux). Il est procédé à un nouveau tour de scrutin jusqu’à obtention de la majorité absolue.
+**Les élections présidentielles et scrutins spéciaux**: A la majorité absolue (sauf mention contraire des scrutins spéciaux). Si la majorité n'est pas atteinte un nouveau vote est organisé.  
 
-**Les autres votes**: Au scrutin à deux tours obligatoires (sauf si unanimité au 1er tour). Le second tour permet de jouer des cartes suffrages ou influence supplémentaires. La sommes des votes des deux tours est utilisée.
+**Les autres votes**: Au scrutin à un seul tour, en commençant par le président. Il est possible de rajouter des cartes suffrages et influence pour modifier le résultat.  
+
+Attention: Les cartes suffrages sont défaussées à la fin du tour de vote ou elles sont utilisées.
+
 
 ## Exil
 
 Un joueur exilé ne peut pas (sauf mention contraire):
 
-- exercer son ou ses postes (qui sont toujours occupés par lui, un exil du président implique une réélection)
+- exercer son ou ses postes (qui sont occupés par le beau-frère du président)
 - être assassiné
 - recevoir un budget
 - engager d'assassin 
 - participer à aucun vote ni aux coups d'états 
 - piocher de carte politique
 
+Un exil du président implique une réélection.
 
 Il peut: 
 - échanger (donner et/ou recevoir) des cartes et des billets avec autres joueurs
@@ -181,8 +185,10 @@ Lorsqu'un personnage décède dans un malheureux "accident" ou bien au peloton d
 - Le compte en suisse reste intact dans la famille
 - Le prénom du mort et rayé de l'enveloppe et le joueur doit en inscrire un autre 
 - Sa famille récupère un poste au gouvernement dans la prochaine phase 2
-- Si le président est mort, une nouvelle élection a lieu immédiatement, suivi du nommage du cabinet, auquel cas tous les joueurs peuvent revenir en jeu, puis le tour de jeu continue normalement.
-- le joueur pioche 4 nouvelles cartes politiques 
+- le joueur pioche 6 nouvelles cartes politiques 
+
+
+**Si le président est mort**, une nouvelle élection a lieu immédiatement, suivi du nommage du cabinet, auquel cas tous les joueurs peuvent revenir en jeu, puis le tour de jeu continue normalement.
 
 ## Coup d'état 
 
@@ -214,8 +220,8 @@ Il n'est pas possible de prendre le contrôle d'une unité (par exemple corrupti
 ### La faction révolutionnaire gagne
 
 - Le président est mené au peloton d'exécution, ses biens (billets) confisqués pour la cause (au leader révolutionnaire)
-- Les premiers insurgés qui n'ont pas changé de camp forment une junte
-- Les possessions des "traîtres" (comprendre ceux qui ont fini dans le camp des loyalistes) sont confisquées et partagées dans la junte par le leader révolutionnaire   
+- Les insurgés forment une junte
+- Les possessions des "traîtres" (comprendre ceux qui ont fini dans le camp des loyalistes) sont confisquées et partagées par le leader révolutionnaire   
 - Une nouvelle élection de président a lieu, normalement, seule la Junte a le droit de voter
 - La carte d'influence "leader révolutionnaire" est conservée et compte dans cette élection et toutes les suivantes. 
 

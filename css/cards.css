@@ -127,12 +127,10 @@ h1{
 
 ul li{
     display:inline-block;
-    margin: 5px;
 }
 
 .card {
-   /* margin: 2mm; */
-   vertical-align: top;
+    vertical-align: top;
     display:inline-block;
     padding: 12px; 
     border: 1px solid #000;   
